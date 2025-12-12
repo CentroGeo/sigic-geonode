@@ -2,7 +2,7 @@
 set -euo pipefail
 
 RELEASE_BRANCH="4.4.x.sigic.whl"
-BASE_TAG="v4.4.0-sigic"
+BASE_TAG="v4.4.4-sigic"
 
 BRANCH=$(git branch --show-current)
 [ "$BRANCH" = "$RELEASE_BRANCH" ] || {
