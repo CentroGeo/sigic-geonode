@@ -165,7 +165,6 @@ Most useful links
 
 - User Mailing List: https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-users
 - Developer Mailing List: https://lists.osgeo.org/cgi-bin/mailman/listinfo/geonode-devel
-- Gitter Chat: https://gitter.im/GeoNode/general
 
 
 Licensing
