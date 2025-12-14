@@ -3,7 +3,7 @@ name: Release GeoNode wheel (SIGIC)
 on:
   push:
     tags:
-      - "v4.4.4-sigic.*"
+      - "v4.4.4.sigic.*"
 
 jobs:
   release:
